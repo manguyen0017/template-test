@@ -8,6 +8,26 @@
   tags:
     - resource
 
+- title: Super Cool Dataset
+  subtitle: Stonks FTW
+  group: featured
+  image: images/SCDphoto.jpg
+  link: https://github.com/
+  description: Time to make the big bucks.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+  - title: Super Cool Dataset
+  subtitle: Stonks FTW
+  group: featured
+  image: images/SCDphoto.jpg
+  link: https://github.com/
+  description: Time to make the big bucks.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
 - title: Cool Package
   subtitle: a subtitle
   group: featured

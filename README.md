@@ -1,4 +1,4 @@
-Visit **[manguyen0017.github.io/template-test](https://manguyen0017.github.io/template-test)** 🚀
+Visit **[manguyen.myportfolio.com](http://manguyen.myportfolio.com)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">

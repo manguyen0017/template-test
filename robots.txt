@@ -1,1 +1,1 @@
-Sitemap: http://manguyen.myportfolio.com/sitemap.xml
+Sitemap: https://manguyen0017.github.io/template-test/sitemap.xml

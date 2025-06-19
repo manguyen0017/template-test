@@ -1,4 +1,4 @@
-Visit **[manguyen0017.github.io/dyn-real-test](https://manguyen0017.github.io/dyn-real-test)** 🚀
+Visit **[manguyen0017.github.io/template-test](https://manguyen0017.github.io/template-test)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">

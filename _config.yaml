@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: *YuJnKm
-subtitle: *subtitle
-description: *An engaging 1-3 sentence description of your lab.
+title: yujnkm
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
